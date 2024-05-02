@@ -72,7 +72,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a> 
   <a href="https://www.docker.com" target="_blank" rel="noreferrer" title="Docker">
-    <img src="https://p1.hiclipart.com/preview/96/77/258/cloud-logo-docker-software-deployment-devops-virtual-machine-microservices-anaconda-rightscale-png-clipart.jpg" alt="docker" width="40" height="40"/>
+    <img src="https://banner2.cleanpng.com/20180920/pvl/kisspng-docker-application-software-software-deployment-mi-docker-5ba331e62a2ce0.4850087515374217981728.jpg" alt="docker" width="40" height="40"/>
   </a> 
 </p>
 
