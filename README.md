@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Alasgar Gadashov</h1>
 <h3 align="center">A passionate developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9528ucfcmpzc1pcrj30oj9oxkmmdz5xljf1rhs8pq1p&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9528ucfcmpzc1pcrj30oj9oxkmmdz5xljf1rhs8pq1p&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
