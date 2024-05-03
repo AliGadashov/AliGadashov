@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Alasgar Gadashov</h1>
 <h3 align="center">A passionate developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fa/8d/38/fa8d38f28940fb3ca0195e2096e555e1.gif">
+<img align="right" alt="Coding" width="400" border-radius="20" src="https://i.pinimg.com/originals/fa/8d/38/fa8d38f28940fb3ca0195e2096e555e1.gif">
 
 - 🌱 I’m currently learning **Java**
 
