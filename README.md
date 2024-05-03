@@ -30,7 +30,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="https://cdn-icons-png.flaticon.com/256/5968/5968672.png" alt="bootstrap" width="40" height="40"/> 
   </a>
   <a href="https://jquery.com" target="_blank" rel="noreferrer" title="Jquery"> 
     <img src="https://technokrats.in/wp-content/uploads/2020/11/Content1-7.png" alt="jquery" width="40" height="40"/> 
@@ -44,8 +44,8 @@
     <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java" width="40" height="40"/>
   </a>
   <h3 align="left">DataBase:</h3>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" title="MySql">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer" title="MySql">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-21-1174941.png?f=webp" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="Postgress">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgreSQL" width="40" height="40"/>
@@ -64,7 +64,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title="Adobe Photoshop"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-adobe-photoshop-4238646-3516519.png" alt="photoshop" width="40" height="40"/> 
   </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" title="Adobe Illustrator"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
