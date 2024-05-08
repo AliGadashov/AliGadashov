@@ -4,9 +4,9 @@
 <h3 align="center">A passionate developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" border-radius="20" src="https://i.pinimg.com/originals/fa/8d/38/fa8d38f28940fb3ca0195e2096e555e1.gif">
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **JavaScript - Advance**
 
-- 📫 How to reach me **aligadashovv@gmail.com**
+- 📫 How to reach me **ali.gadashovv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
