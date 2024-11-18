@@ -1,18 +1,19 @@
 
 
 <h1 align="center">Hi 👋, I'm Alasgar Gadashov</h1>
-<h3 align="center">A passionate developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" border-radius="20" src="https://i.pinimg.com/originals/fa/8d/38/fa8d38f28940fb3ca0195e2096e555e1.gif">
+<h3 align="center">Java back-end developer from Azerbaijan</h3>
+<img align="right" alt="Coding" width="400" border-radius="20" src="https://i.imgur.com/rTZkf4K.gif">
 
-- 🌱 I’m currently learning **JavaScript - Advance**
+- 🌱 I’m currently learning:
+-   **Java - Core Advance, Architectures and Design Patterns**
 
-- 📫 How to reach me **ali.gadashovv@gmail.com**
+- 📫 How to reach me:
+-  **ali.gadashovv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alasgar-gadashov-a482651b4/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alasgar-gadashov-a482651b4" height="30" width="40" /></a>
 <a href="https://instagram.com/aliqadasov" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aliqadasov" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ali.qadasov.14" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" alt="aliqadasov" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Front-end:</h3>
@@ -52,11 +53,20 @@
   </a>
   <h3 align="left">Other Tools:</h3>
   <a href="https://spring.io/" target="_blank" rel="noreferrer" title="Spring"> 
-    <img src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text-thumbnail.png" alt="spring" width="40" height="40"/> 
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fspring-3-logo-png-transparent.png&f=1&nofb=1&ipt=6b04aa9b6fd854cf7a2ccd628ead2e94e2c994968af5866c81ac9295ee50e4a6&ipo=images" width="40" height="40"/> 
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" title="Spring boot">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flkrnac.net%2Fwp-stuff%2Fuploads%2F2014%2F11%2Fspring-boot-logo-604x270.png&f=1&nofb=1&ipt=f5d1701732aa1479fd65f62086637cf10184adc63110bb204811bde83a123fd4&ipo=images" width="40" height="40"/>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdominickm.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fspring-boot-logo_full.png&f=1&nofb=1&ipt=1af2254e61851fda01660fdb949542ecf8d09a04cb5e2dd65b97a43edd3a24cc&ipo=images" width="40" height="40"/>
   </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a> 
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer" title="Docker">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-docker-226091.png" width="40" height="40"/>
+  </a> 
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" title="Kafka">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcreazilla-store.fra1.digitaloceanspaces.com%2Ficons%2F3207476%2Fapache-kafka-icon-md.png&f=1&nofb=1&ipt=71ed055afadb9e785b5526fab9a27be43ebb3954783927efda81b9344a97f4e2&ipo=images" width="40" height="40"/>
+  </a>
    <a href="https://www.postman.com" target="_blank" rel="noreferrer" title="Postman"> 
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
@@ -75,15 +85,6 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" title="Adobe Illustrator"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title="Linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a> 
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer" title="Docker">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-docker-226091.png" width="40" height="40"/>
-  </a> 
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" title="Kafka">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcreazilla-store.fra1.digitaloceanspaces.com%2Ficons%2F3207476%2Fapache-kafka-icon-md.png&f=1&nofb=1&ipt=71ed055afadb9e785b5526fab9a27be43ebb3954783927efda81b9344a97f4e2&ipo=images" width="40" height="40"/>
-  </a>
 </p>
 
 <p>
