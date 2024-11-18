@@ -51,6 +51,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgreSQL" width="40" height="40"/>
   </a>
   <h3 align="left">Other Tools:</h3>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer" title="Spring"> 
+    <img src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text-thumbnail.png" alt="spring" width="40" height="40"/> 
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" title="Spring boot">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flkrnac.net%2Fwp-stuff%2Fuploads%2F2014%2F11%2Fspring-boot-logo-604x270.png&f=1&nofb=1&ipt=f5d1701732aa1479fd65f62086637cf10184adc63110bb204811bde83a123fd4&ipo=images" width="40" height="40"/>
+  </a> 
    <a href="https://www.postman.com" target="_blank" rel="noreferrer" title="Postman"> 
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
@@ -75,6 +81,9 @@
   <a href="https://www.docker.com" target="_blank" rel="noreferrer" title="Docker">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-docker-226091.png" width="40" height="40"/>
   </a> 
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" title="Kafka">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcreazilla-store.fra1.digitaloceanspaces.com%2Ficons%2F3207476%2Fapache-kafka-icon-md.png&f=1&nofb=1&ipt=71ed055afadb9e785b5526fab9a27be43ebb3954783927efda81b9344a97f4e2&ipo=images" width="40" height="40"/>
+  </a>
 </p>
 
 <p>
