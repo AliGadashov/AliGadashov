@@ -4,6 +4,8 @@
 <h3 align="center">Java back-end developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" border-radius="20" src="https://i.imgur.com/rTZkf4K.gif">
 
+
+
 - 🌱 I’m currently learning:
 -   **Java - Core Advance, Architectures and Design Patterns**
 
