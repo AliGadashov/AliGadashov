@@ -8,7 +8,7 @@
 
 <h3>🌱 I’m currently learning:</h3>
     <ul>
-      <li>Java, Python, and Next.js</li>
+      <li>Java & Spring Boot, Python & Django</li>
       <li>System design & scalable architectures</li>
       <li>Modern development practices (CI/CD, Cloud, DevOps tools)</li>
     </ul>
